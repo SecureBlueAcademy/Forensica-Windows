@@ -69,7 +69,7 @@ The analysis results are presented in a comprehensive HTML report. This report p
 
 ## Feedback & Contributions  
 
-We welcome your feedback and contributions to help improve Forensica-Linux! Please feel free to submit bug reports, feature requests, and pull requests.  
+We welcome your feedback and contributions to help improve Forensica-Windows! Please feel free to submit bug reports, feature requests, and pull requests.  
 
 Wanted to Connect: Here is our LinkedIn Profile: https://www.linkedin.com/company/secureblue-academy
 
