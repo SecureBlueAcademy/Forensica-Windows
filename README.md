@@ -75,6 +75,6 @@ Wanted to Connect: Here is our LinkedIn Profile: https://www.linkedin.com/compan
 
 ## License  
 
-Forensica-Linux is an open-source, free to use for anyone.
+Forensica-Windows is an open-source, free to use for anyone.
 
 Happy Forensics!
